@@ -1,0 +1,55 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.ct{
+  background-color: #ff4c68;
+}
+.ct2{
+  background-color: #df8172;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+.player{
+  padding-top:50px;
+  color: #4ECCA3;
+}
+#playgame{
+  padding-top:10px;
+  margin-top: 5px;
+  margin-left: 65px;
+}
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
